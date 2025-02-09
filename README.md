@@ -1,4 +1,4 @@
-<img src="./images/github-banner.png" alt="GitHub Banner" width="100%" />
+<img src="./images/banner-github.png" alt="GitHub Banner" width="100%" />
 
 <h2 align="left">Hi 👋! My name is  Rakibul Hasan Roki<br>🌱 Currently Evolving<br>Deepening my expertise in front-end development, with a focus on mastering React and advanced CSS techniques. Continuously enhancing my skills in modern tools and best practices to build high-quality, scalable web applications.</h2>
 
