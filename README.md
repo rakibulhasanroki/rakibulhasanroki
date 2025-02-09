@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./images/Rakibul.png"  />
+<img align="right" height="150" width="150" style="border-radius: 50%;" src="./images/Rakibul.png" />
 
 ###
 
