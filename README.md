@@ -1,6 +1,6 @@
 <img src="./images/banner.png" alt="GitHub Banner" width="100%" />
 
-<h2 align="left">Hi 👋!<br>
+<h2 align="left">Hi!<br>
 My name is Rakibul Hasan Roki</h2>
 <h4>🌱 Currently Evolving<br>Deepening my expertise in front-end development, with a focus on mastering React and advanced CSS techniques. Continuously enhancing my skills in modern tools and best practices to build high-quality, scalable web applications.</h4>
 
