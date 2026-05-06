@@ -1,46 +1,48 @@
-<img src="./images/banner.png" alt="GitHub Banner" />
+<img src="./images/github-banner.png" alt="GitHub Banner" />
 
-<h2 align="left">Hi!<br>
-My name is Rakibul Hasan Roki</h2>
-<h4>🌱 Currently Evolving<br>Deepening my expertise in front-end development, with a focus on mastering React and advanced CSS techniques. Continuously enhancing my skills in modern tools and best practices to build high-quality, scalable web applications.</h4>
+## Hi, I'm Rakibul Hasan Roki
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="./images/icons8-tailwindcss.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="./images/icons8-github.svg" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
+Web Developer focused on building scalable, production-ready web applications with clean, efficient user interfaces.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rakibulhasanroki/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-</div>
+- Designing and developing RESTful APIs
+- Authentication, authorization, and user management systems
+- Payment system integration (Stripe or similar)
+- Responsive, accessible UI implementation
+- Database design, optimization, and querying
 
-###
+Focused on product-driven development and building reliable, maintainable systems in collaborative environments.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibulhasanroki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhasanroki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rakibulhasanroki.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibulhasanroki)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibulhasanroki)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inbox.roki@gmail.com)
+
+## Tech Stack
+
+<strong>Frontend</strong>
+<br style="line-height:2;" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,typescript,react,javascript,tailwind,shadcn" height="34" />
+
+<strong>Backend</strong>
+<br style="line-height:2;" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,postgresql,mongodb,prisma" height="34" />
+
+<strong>DevOps & Tools</strong>
+<br style="line-height:2;" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,figma,docker,postman,notion" height="34" />
+
+## Currently Learning
+
+- Docker for containerized application deployment
+- Environment management and production configuration best practices
+- CI/CD pipelines for automated build and deployment
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/rakibulhasanroki/github-stats/generated/overview.svg#gh-dark-mode-only" width="40%" />
+  <img src="https://raw.githubusercontent.com/rakibulhasanroki/github-stats/generated/languages.svg#gh-dark-mode-only" width="40%" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakibulhasanroki/rakibulhasanroki/output/github-snake-dark.svg" />
