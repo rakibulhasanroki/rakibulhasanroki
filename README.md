@@ -1,4 +1,4 @@
-<img src="./images/banner.png" alt="GitHub Banner" width="100%" />
+<img src="./images/banner.png" alt="GitHub Banner" />
 
 <h2 align="left">Hi!<br>
 My name is Rakibul Hasan Roki</h2>
